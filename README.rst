@@ -8,13 +8,17 @@
 本文档旨在提供一个以猫头鹰的饲养和救助为主题的，
 简洁但比较完备的自助指南。
 
+本文档托管于 GitHub 上[1]_。
+
+.. [1] https://github.com/CasperVector/owl-guide
+
 
 版权
 ----
 
-本文档源自百度猫头鹰吧 [1]_ 网友的共同努力。
+本文档源自百度猫头鹰吧 [2]_ 网友的共同努力。
 欢迎转载， *转载时请注明作者、出处* 。
 
-.. [1] http://tieba.baidu.com/f?ie=utf-8&kw=%E7%8C%AB%E5%A4%B4%E9%B9%B0
+.. [2] http://tieba.baidu.com/f?ie=utf-8&kw=%E7%8C%AB%E5%A4%B4%E9%B9%B0
 
 

@@ -20,6 +20,11 @@
 本文档源自百度猫头鹰吧网友的共同努力。
 欢迎转载， *转载时请注明作者、出处* 。
 
+本文档托管于 GitHub 上[#github-link]_。
+
+.. [#github-link]
+   https://github.com/CasperVector/owl-guide
+
 
 法律问题
 --------
