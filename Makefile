@@ -1,7 +1,7 @@
 PROJECT = owl-guide
 TEMPLATE = pandoc-caspervector.tex
 LATEX = xelatex
-PANDOC_FLAGS = --latex-engine=${LATEX} --template=${TEMPLATE} -V ctex
+PANDOC_FLAGS = --latex-engine=${LATEX} --template=${TEMPLATE} -V ctex --toc
 
 all: ${PROJECT}.pdf
 debug: ${PROJECT}.tex
