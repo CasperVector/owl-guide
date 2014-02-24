@@ -1,3 +1,9 @@
+\makeatletter
+\@ifpackageloaded{adjustbox}{%
+	\adjustboxset{max totalsize = {0.90\textwidth}{0.36\textheight}}%
+}{}
+\makeatother
+\captionsetup{font = it}
 \let\oldemph\emph
 \renewcommand{\emph}[1]{\oldemph{\textcolor{red}{#1}}}
 
