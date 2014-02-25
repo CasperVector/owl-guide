@@ -3,7 +3,7 @@ TEMPLATE = pandoc-caspervector.tex
 HEADER = owl-header.tex
 LATEX = xelatex
 PANDOC_FLAGS = --latex-engine=${LATEX} --template=${TEMPLATE} \
-	-V ctex --no-tex-ligatures --toc -H ${HEADER}
+	-V ctex --no-tex-ligatures --toc -N -H ${HEADER}
 
 all: ${PROJECT:%=%.pdf}
 debug: ${PROJECT:%=%.tex}
