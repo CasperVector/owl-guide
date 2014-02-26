@@ -123,8 +123,8 @@
    这使它们中的许多患上抑郁症，痛苦终生。
 
 .. [#alienation]
-   这方面的一个悲剧性的例子，
-   请见 http://tieba.baidu.com/p/2397152048
+   这方面的一个悲剧性的例子：
+   http://tieba.baidu.com/p/2397152048
    （请务必看完第 24 楼楼中楼的所有回复）。
 
 
@@ -357,7 +357,7 @@ __ http://info.ryp.cn/detail/205034.html
   因此 *猫头鹰不宜吃牛肉* 。
 
 .. [#pork-death]
-   一个疑似喂猪肉导致猫头鹰死亡的例子，请见
+   一个疑似喂猪肉导致猫头鹰死亡的例子：
    http://tieba.baidu.com/p/2590872131 。
 
 * **刺激消化系统的食物** ：
@@ -384,7 +384,7 @@ __ http://info.ryp.cn/detail/205034.html
   则喂食前需要剔除这些尖利的部分。
 
 .. [#fish-death]
-   一个喂鱼虾喂死猫头鹰的例子，请见
+   一个喂鱼虾喂死猫头鹰的例子：
    http://tieba.baidu.com/p/2767568330 。
 
 .. [#fishing-owl]
