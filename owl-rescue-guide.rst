@@ -649,7 +649,7 @@ __ http://info.ryp.cn/detail/205034.html
 不过，在人工条件下，食物种类受限，
 食丸的参考价值相对而言可能不那么高。
 
-.. figure:: img/pellet.jpg
+.. figure:: img/owl-pellet.jpg
 
    猫头鹰的食丸（图引自 `这里`__ ）
 
