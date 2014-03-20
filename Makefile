@@ -1,18 +1,17 @@
 PROJECT = owl-rescue-guide owl-taxon-guide
 TEMPLATE = pandoc-caspervector.tex
-HEADER = owl-header.tex
 LATEX = xelatex
 PANDOC_FLAGS = --latex-engine=${LATEX} --template=${TEMPLATE} \
-	-V ctex --no-tex-ligatures --toc -N -H ${HEADER}
+	-V ctex --no-tex-ligatures --toc -N
 
 all: ${PROJECT:%=%.pdf}
 debug: ${PROJECT:%=%.tex}
 
-%.pdf: %.rst ${HEADER}
-	pandoc ${PANDOC_FLAGS} $< -o $@
+%.pdf: %.rst %.h.tex
+	pandoc ${PANDOC_FLAGS} -H ${@:%.pdf=%.h.tex} $< -o $@
 
-%.tex: %.rst ${HEADER}
-	pandoc -s ${PANDOC_FLAGS} $< -o $@
+%.tex: %.rst %.h.tex
+	pandoc -s ${PANDOC_FLAGS} -H ${@:%.pdf=%.h.tex} $< -o $@
 
 .PHONY: clean distclean
 clean:
