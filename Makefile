@@ -11,7 +11,7 @@ debug: ${PROJECT:%=%.tex}
 	pandoc ${PANDOC_FLAGS} -H ${@:%.pdf=%.h.tex} $< -o $@
 
 %.tex: %.rst %.h.tex
-	pandoc -s ${PANDOC_FLAGS} -H ${@:%.pdf=%.h.tex} $< -o $@
+	pandoc -s ${PANDOC_FLAGS} -H ${@:%.tex=%.h.tex} $< -o $@
 
 .PHONY: clean distclean
 clean:
