@@ -10,7 +10,7 @@ $endif$
 \usepackage{microtype}
 \usepackage{indentfirst}
 \usepackage{amssymb, amsmath}
-\usepackage[labelformat = empty]{caption}
+\usepackage[font = it, labelformat = empty]{caption}
 
 \ifXeTeX
 	\usepackage{xltxtra}
@@ -32,7 +32,7 @@ $endif$
 $if(graphics)$
 \usepackage{graphicx}
 \usepackage[Export]{adjustbox}
-\adjustboxset{max totalsize = {0.75\textwidth}{0.75\textheight}}
+\adjustboxset{max totalsize = {0.90\textwidth}{0.36\textheight}}
 $endif$
 $if(tables)$
 \usepackage{longtable, booktabs}
@@ -67,6 +67,7 @@ $endif$
 $if(ctex)$
 \pagestyle{plain}
 $endif$
+\renewcommand{\floatpagefraction}{0.72}
 \setlength{\emergencystretch}{3em}
 \setcounter{tocdepth}{$toc-depth$}
 \setcounter{secnumdepth}{$if(numbersections)$5$else$0$endif$}
