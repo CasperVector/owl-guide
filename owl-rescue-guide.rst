@@ -375,8 +375,8 @@ __ http://info.ryp.cn/detail/205034.html
   特别是消化能力较弱的小型猫头鹰。
 
 .. [#pork-death]
-   一个疑似喂猪肉导致猫头鹰死亡的例子：
-   http://tieba.baidu.com/p/2590872131 。
+   一个喂猪肉导致猫头鹰死亡的例子：
+   http://tieba.baidu.com/p/3004596391 。
 
 * **刺激消化系统的食物**
 
