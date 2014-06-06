@@ -170,7 +170,7 @@
 如果养在小笼子里，则容易和笼壁的金属丝碰撞，轻则羽毛废掉，重则头破血流。
 特别是有裸露的金属尖端的笼子（见附图），极易对猫头鹰造成严重的伤害。
 
-.. figure:: img/harmful-cage.jpg
+.. figure:: img/rescue/harmful-cage.jpg
 
    有裸露金属尖端（图中红色阴影部分）的笼子（原图引自 `这里`__ ）
 
@@ -198,7 +198,7 @@ __ http://tieba.baidu.com/p/2817053927
 
 * 体型比鸡还要大的大型猫头鹰，建议腾出一整个房间放养。
 
-.. figure:: img/falcon-block.jpg
+.. figure:: img/rescue/falcon-block.jpg
 
    隼台和两开（图引自 `这里`__ ）
 
@@ -248,7 +248,7 @@ __ http://www.northwoodsfalconry.com/products-page/perches-for-falcons/
 应该有一个不易被打翻的容器（例如狗食盆，见附图）用来装水，
 其中的水用光或弄脏之后应当即使补充或更换。
 
-.. figure:: img/dog-bowl.jpg
+.. figure:: img/rescue/dog-bowl.jpg
 
    不易被打翻的水盆（图引自 `这里`__ ）
 
@@ -264,7 +264,7 @@ __ https://commons.wikimedia.org/wiki/File:Dog_Water_Bowl.jpg
 （如果不能保证避光，那么至少应该避免阳光直射）。
 例如，附图中的鸟舍就是一个没有很好考虑避光要求的例子。
 
-.. figure:: img/lack-of-shade.jpg
+.. figure:: img/rescue/lack-of-shade.jpg
 
    避光不足的鸟舍（原图引自 `这里`__ ）
 
@@ -286,7 +286,7 @@ __ http://tieba.baidu.com/p/2732523411
 
 当然，除此之外，如果猫头鹰居住在室内的话，房间也应保持通风。
 
-.. figure:: img/bad-venti-box.jpg
+.. figure:: img/rescue/bad-venti-box.jpg
 
    通风不畅的箱子（图引自 `这里`__ ）
 
@@ -698,7 +698,7 @@ __ http://info.ryp.cn/detail/205034.html
 不过，在人工条件下，食物种类受限，
 食丸的参考价值相对而言可能不那么高。
 
-.. figure:: img/owl-pellet.jpg
+.. figure:: img/rescue/owl-pellet.jpg
 
    猫头鹰的食丸（图引自 `这里`__ ）
 
@@ -814,7 +814,7 @@ __ http://www.owlpages.com/articles.php?
 可以使用“伊丽莎白项圈”[#elizabethan-collar]_（见附图）
 阻止猫头鹰对自己伤口的破坏。
 
-.. figure:: img/elizabethan-collar.jpg
+.. figure:: img/rescue/elizabethan-collar.jpg
 
    伊丽莎白项圈（图引自 `这里`__ ）
 
@@ -947,7 +947,7 @@ __ http://queen516zz.pixnet.net/blog/post/30652244
 关于猫头鹰的警戒行为和应激反应，可以参考附图中的总结，
 以及这篇[#vigilance]_网友文章。
 
-.. figure:: img/scared-owl.jpg
+.. figure:: img/rescue/scared-owl.jpg
 
    处于恐惧状态下的猫头鹰（原图引自 `这里`__ ）
 
@@ -958,7 +958,7 @@ __ http://imgur.com/gallery/jZZWD
    \begingroup
    \adjustboxset*{width = 0.95\textwidth}
 
-.. figure:: img/owl-vigilance.jpg
+.. figure:: img/rescue/owl-vigilance.jpg
 
    猫头鹰的警戒行为和应激反应（图引自 `这里`__ ）
 
