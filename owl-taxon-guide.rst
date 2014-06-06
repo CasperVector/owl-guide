@@ -83,7 +83,7 @@
     猛鸮 *Surnia ulula* 。
 
   * **雕鸮属 *Bubo* ：**
-    雕鸮 *Bubo bubo* 、林雕鸮 *Bubo nipalensis* 、乌雕鸮 *Bubo coromandus* 。
+    雕鸮 *Bubo bubo* 、乌雕鸮 *Bubo coromandus* 、林雕鸮 *Bubo nipalensis* 。
 
   * **雪鸮属 *Nyctea* （现已并入雕鸮属）：**
     雪鸮 *Bubo scandiacus* 。
