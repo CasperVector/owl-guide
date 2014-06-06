@@ -114,3 +114,30 @@
 例如叫声、繁殖期等判断分类的方法作为参考。
 
 
+猴面鹰
+======
+
+目前确定在我国有野生分布的草鸮科猫头鹰（即猴面鹰），
+按在我国的常见程度排序，依次为草鸮、仓鸮和栗鸮（见附图）。
+这三种猴面鹰均为中小型猫头鹰，其中草鸮和仓鸮的平均体长大约 35 厘米，
+而栗鸮的平均体长大约 30 厘米。
+
+.. figure:: img/taxon/tytonidae.jpg
+
+   从左到右依次为草鸮、仓鸮和栗鸮
+   （图分别引自 `这里`__ 、 `这里`__ 和 `这里`__ ）
+
+__ http://25.media.tumblr.com/742e0fefb0b25f25070c442cfc39a881/
+   tumblr_mi2di24FAD1qigj88o1_1280.jpg
+
+__ https://en.wikipedia.org/wiki/
+   File:Tyto_alba_-British_Wildlife_Centre,_Surrey,_England-8a_%281%29.jpg
+
+__ http://ibc.lynxeds.com/photo/
+   oriental-bay-owl-phodilus-badius/two-birds-perched-trunk-night
+
+栗鸮的形态和另外两种猴面鹰有着明显的不同，故不再赘述。
+草鸮和仓鸮在形态上最大的区别在于两者从背部到头顶羽毛的颜色：
+草鸮是黑底色带黄色图案，黑色是主要的；仓鸮是橙底色带黑色图案，橙色是主要的。
+
+
