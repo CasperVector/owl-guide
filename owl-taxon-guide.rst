@@ -98,6 +98,22 @@
     褐渔鸮 *Bubo zeylonensis* 、
     毛腿渔鸮 *Bubo blakistoni* 、黄腿渔鸮 *Bubo flavipes* 。
 
+本文档将顺带介绍一些经常被提及和问到的非本土物种：
+
+- **鸱鸮科 *Strigidae* ：**
+
+  * **白脸鸮属 *Ptilopsis* ：**
+    （北）白脸角鸮 *Ptilopsis leucotis* 、南白脸角鸮 *Ptilopsis granti* 。
+
+  * **小鸮属 *Athene* ：**
+    穴鸮 *Athene cunicularia* 。
+
+  * **鬼鸮属 *Aegolius* ：**
+    棕榈鬼鸮 *Aegolius acadicus* 。
+
+  * **雕鸮属 *Bubo* ：**
+    大角鸮 *Bubo virginianus* 。
+
 
 分类方法概述
 ------------
