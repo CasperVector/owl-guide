@@ -60,9 +60,9 @@
 - **鸱鸮科 *Strigidae* ：**
 
   * **角鸮属 *Otus* ：**
-    东方角鸮 *Otus sunia* 、西红角鸮 *Otus scops* 、
+    东方角鸮 *Otus sunia* 、（西）红角鸮 *Otus scops* 、
     黄嘴角鸮 *Otus spilocephalus* 、领角鸮 *Otus bakkamoena* 、
-    纵纹角鸮 *Otus brucei* 、兰屿角鸮 *Otus elegans* 。
+    纵纹角鸮 *Otus brucei* 、琉球角鸮 *Otus elegans* 。
 
   * **鸺鹠属 *Glaucidium* ：**
     领鸺鹠 *Glaucidium brodiei* 、花头鸺鹠 *Glaucidium passerinum* 、
