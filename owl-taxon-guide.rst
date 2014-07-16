@@ -65,8 +65,8 @@
     纵纹角鸮 *Otus brucei* 、琉球角鸮 *Otus elegans* 。
 
   * **鸺鹠属 *Glaucidium* ：**
-    领鸺鹠 *Glaucidium brodiei* 、花头鸺鹠 *Glaucidium passerinum* 、
-    斑头鸺鹠 *Glaucidium cuculoides* 。
+    斑头鸺鹠 *Glaucidium cuculoides*  、花头鸺鹠 *Glaucidium passerinum* 、
+    领鸺鹠 *Glaucidium brodiei* 。
 
   * **小鸮属 *Athene* ：**
     纵纹腹小鸮 *Athene noctua* 、横斑腹小鸮 *Athene brama* 。
@@ -106,7 +106,7 @@
     （北）白脸角鸮 *Ptilopsis leucotis* 、南白脸角鸮 *Ptilopsis granti* 。
 
   * **小鸮属 *Athene* ：**
-    穴鸮 *Athene cunicularia* 。
+    穴（小）鸮 *Athene cunicularia* 。
 
   * **鬼鸮属 *Aegolius* ：**
     棕榈鬼鸮 *Aegolius acadicus* 。
