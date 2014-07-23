@@ -268,6 +268,38 @@ __ https://en.wikipedia.org/wiki/File:Northern_white-faced_owl_arp.jpg
 鸺鹠属和小鸮属
 --------------
 
+鸺鹠属
+......
+
+目前确定在我国有野生分布的鸺鹠有斑头鸺鹠、花头鸺鹠和领鸺鹠（见两附图），
+三者的平均体长分别约为 24、18 和 16 厘米，领鸺鹠是我国体型最小的猫头鹰。
+三者中，斑头鸺鹠在我国最为常见，领鸺鹠次之，而花头鸺鹠在我国罕见。
+
+.. figure:: img/taxon/cuculoides-passerinum.jpg
+
+   左、右分别为斑头鸺鹠和花头鸺鹠（图引自 `这里`__ 和 `这里`__ ）
+
+__ http://tieba.baidu.com/p/694809590
+
+__ http://www.pbase.com/breider/image/135508661
+
+.. figure:: img/taxon/glaucidium-brodiei.jpg
+
+   领鸺鹠及其头部背面的 V 字图案（图引自 `这里`__ ）
+
+__ http://orientalbirdimages.org/search.php?Bird_ID=635&Bird_Image_ID=92674
+
+通过羽毛形成的图案，可以方便地区分这三种鸺鹠：
+斑头鸺鹠的头顶和背部均为横纹，花头鸺鹠的头顶和背部均为点状斑；
+领鸺鹠的头顶为点状斑，背部为横纹，且头部的背面有明显的 V 字形图案（见附图）。
+
+鸺鹠以虫类和鼠类为主食；
+若要饲养，建议以白鼠和虫类交替投喂。
+
+
+小鸮属
+......
+
 
 其它
 ----
