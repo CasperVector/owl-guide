@@ -375,13 +375,38 @@ __ http://ibc.lynxeds.com/photo/
 耳鸮属
 ------
 
+.. figure:: img/taxon/asio.jpg
+
+   左、右分别为长耳鸮和短耳鸮（图引自 `这里`__ 和 `这里`__ ）
+
+__ http://tieba.baidu.com/p/2135199592
+
+__ http://www.birdscalgary.com/2013/03/06/wednesday-wings-short-eared-owls/
+
 
 林鸮属
 ------
 
+.. figure:: img/taxon/strix.jpg
+
+   从左到右依次为灰林鸮、褐林鸮和长尾林鸮
+   （原图分别引自 `这里`__ 、 `这里`__ 和 `这里`__ ）
+
+__ http://tieba.baidu.com/p/2135199592
+
+__ https://secure.flickr.com/photos/zakirhassan/8121975074/
+
+__ http://birds.nature4stock.com/?page_id=1803
+
 
 猛鸮属
 ------
+
+.. figure:: img/taxon/surnia-ulula.jpg
+
+  猛鸮（图引自 `这里`__ ）
+
+__ http://www.owlpages.com/image.php?image=species-Surnia-ulula-15
 
 
 大型猫头鹰
@@ -390,13 +415,52 @@ __ http://ibc.lynxeds.com/photo/
 雕鸮属
 ------
 
+.. figure:: img/taxon/coromandus-bubo.jpg
+
+   左、右分别为雕鸮和乌雕鸮（原图引自 `这里`__ 和 `这里`__ ）
+
+__ https://commons.wikimedia.org/wiki/
+   File:Bubo_bubo_-British_Wildlife_Centre,_Surrey,_
+   England_-zoo_keeper-8a_%281%29.jpg
+
+__ http://orientalbirdimages.org/search.php?
+   Bird_ID=624&Bird_Image_ID=49606&p=15
+
+.. figure:: img/taxon/nipalensis-virginianus.jpg
+
+   左、右分别为林雕鸮和大角鸮（原图引自 `这里`__ 和 `这里`__ ）
+
+__ http://tieba.baidu.com/p/2135199592
+
+__ https://commons.wikimedia.org/wiki/
+   File:Bubo_virginianus_-Reifel_Migratory_Bird_Sanctuary-8.jpg
+
 
 渔鸮属
 ------
 
+.. figure:: img/taxon/ketupa.jpg
+
+   从左到右依次为褐渔鸮、毛腿渔鸮和黄腿渔鸮
+   （原图分别引自 `这里`__ 、 `这里`__ 和 `这里`__ ）
+
+__ http://www.owlpages.com/image.php?image=species-Bubo-zeylonensis-1
+
+__ http://lananhbirds.com/diendan/showthread.php?t=969
+
+__ https://commons.wikimedia.org/wiki/File:Blakiston%60s_fish_owl1.jpg
+
 
 其它
 ----
+
+.. figure:: img/taxon/misc-big.jpg
+
+   左、右分别为雪鸮和乌林鸮（原图引自 `这里`__ 和 `这里`__ ）
+
+__ http://www.owlpages.com/image.php?image=species-Bubo-scandiacus-2
+
+__ http://www.owlpages.com/image.php?image=species-Strix-nebulosa-16
 
 
 其它分类方法
