@@ -82,7 +82,7 @@
 
   * **林鸮属 *Strix* ：**
     灰林鸮 *Strix aluco* 、褐林鸮 *Strix leptogrammica* 、
-    长尾林鸮 *Strix uraalensis* 、四川林鸮 *Strix davidi* 、
+    长尾林鸮 *Strix uralensis* 、四川林鸮 *Strix davidi* 、
     乌林鸮 *Strix nebulosa* 。
 
   * **猛鸮属 *Surnia* ：**
@@ -260,9 +260,9 @@ __ http://tieba.baidu.com/p/2731146972
 
    左、右分别为白脸角鸮和纵纹角鸮（图引自 `这里`__ 和 `这里`__ ）
 
-__ http://wowturkey.com/forum/viewtopic.php?t=32800
-
 __ https://en.wikipedia.org/wiki/File:Northern_white-faced_owl_arp.jpg
+
+__ http://wowturkey.com/forum/viewtopic.php?t=32800
 
 
 鸺鹠属和小鸮属
