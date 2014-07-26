@@ -96,7 +96,8 @@
 
   * **渔鸮属 *Ketupa* （现已并入雕鸮属）：**
     褐渔鸮 *Bubo zeylonensis* 、
-    毛腿渔鸮 *Bubo blakistoni* 、黄腿渔鸮 *Bubo flavipes* 。
+    黄腿渔鸮 *Bubo flavipes* 、
+    毛腿渔鸮 *Bubo blakistoni* 。
 
 本文档将顺带介绍一些经常被提及和问到的非本土物种：
 
