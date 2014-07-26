@@ -339,6 +339,34 @@ __ http://majikphil.blogspot.com/2011/02/florida-burrowing-owl.html
 其它
 ----
 
+目前确定在我国有野生分布的小型猫头鹰还有鹰鸮和鬼鸮，
+其中前者常见，后者罕见；
+棕榈鬼鸮产于北美洲，在我国没有野生分布，
+但因一张其被抚摸的图片（见《猫头鹰救助和饲养指南》）在互联网上流行，
+故在本文档中一并介绍。
+这三种猫头鹰的形态见附图，
+其中鹰鸮、鬼鸮和棕榈鬼鸮的平均体长分别约为 30、25 和 20 厘米。
+
+.. figure:: img/taxon/misc-small.jpg
+
+   从左到右依次为鹰鸮、鬼鸮和棕榈鬼鸮
+   （图分别引自 `这里`__ 、 `这里`__ 和 `这里`__ ）
+
+__ http://bobtheplainguy.blogspot.com/2009/01/penang-bird-park.html
+
+__ https://en.wikipedia.org/wiki/File:Aegolius-funereus-001.jpg
+
+__ http://ibc.lynxeds.com/photo/
+   northern-saw-whet-owl-aegolius-acadicus/daytime-roost
+
+鹰鸮的形态和其它各种猫头鹰有着明显的不同，故不再赘述。
+鬼鸮和棕榈鬼鸮在形态上最大的区别在于鬼鸮面盘边缘明显有一圈深色的毛；
+此外，鬼鸮的羽毛颜色总体比棕榈鬼鸮更深一些；
+最重要的是，棕榈鬼鸮的产地不在中国。
+
+鹰鸮以虫类、鼠类和小鸟为主食，建议以白鼠和虫类交替投喂。
+鬼鸮在我国罕见，发现后请尽量及时联系有关社会力量，以进行专业救助。
+
 
 中型猫头鹰
 ==========
