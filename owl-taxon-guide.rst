@@ -259,7 +259,7 @@ __ http://tieba.baidu.com/p/2731146972
 
 .. figure:: img/taxon/otus-more.jpg
 
-   左、右分别为白脸角鸮和纵纹角鸮（图引自 `这里`__ 和 `这里`__ ）
+   左、右分别为白脸角鸮和纵纹角鸮（图分别引自 `这里`__ 和 `这里`__ ）
 
 __ https://en.wikipedia.org/wiki/File:Northern_white-faced_owl_arp.jpg
 
@@ -278,7 +278,7 @@ __ http://wowturkey.com/forum/viewtopic.php?t=32800
 
 .. figure:: img/taxon/cuculoides-passerinum.jpg
 
-   左、右分别为斑头鸺鹠和花头鸺鹠（图引自 `这里`__ 和 `这里`__ ）
+   左、右分别为斑头鸺鹠和花头鸺鹠（图分别引自 `这里`__ 和 `这里`__ ）
 
 __ http://tieba.baidu.com/p/694809590
 
@@ -377,7 +377,7 @@ __ http://ibc.lynxeds.com/photo/
 
 .. figure:: img/taxon/asio.jpg
 
-   左、右分别为长耳鸮和短耳鸮（图引自 `这里`__ 和 `这里`__ ）
+   左、右分别为长耳鸮和短耳鸮（图分别引自 `这里`__ 和 `这里`__ ）
 
 __ http://tieba.baidu.com/p/2135199592
 
@@ -417,7 +417,7 @@ __ http://www.owlpages.com/image.php?image=species-Surnia-ulula-15
 
 .. figure:: img/taxon/coromandus-bubo.jpg
 
-   左、右分别为雕鸮和乌雕鸮（原图引自 `这里`__ 和 `这里`__ ）
+   左、右分别为雕鸮和乌雕鸮（原图分别引自 `这里`__ 和 `这里`__ ）
 
 __ https://commons.wikimedia.org/wiki/
    File:Bubo_bubo_-British_Wildlife_Centre,_Surrey,_
@@ -428,7 +428,7 @@ __ http://orientalbirdimages.org/search.php?
 
 .. figure:: img/taxon/nipalensis-virginianus.jpg
 
-   左、右分别为林雕鸮和大角鸮（原图引自 `这里`__ 和 `这里`__ ）
+   左、右分别为林雕鸮和大角鸮（原图分别引自 `这里`__ 和 `这里`__ ）
 
 __ http://tieba.baidu.com/p/2135199592
 
@@ -456,7 +456,7 @@ __ https://commons.wikimedia.org/wiki/File:Blakiston%60s_fish_owl1.jpg
 
 .. figure:: img/taxon/misc-big.jpg
 
-   左、右分别为雪鸮和乌林鸮（原图引自 `这里`__ 和 `这里`__ ）
+   左、右分别为雪鸮和乌林鸮（原图分别引自 `这里`__ 和 `这里`__ ）
 
 __ http://www.owlpages.com/image.php?image=species-Bubo-scandiacus-2
 
