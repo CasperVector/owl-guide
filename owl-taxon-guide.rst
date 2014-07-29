@@ -216,9 +216,7 @@ __ http://ibc.lynxeds.com/photo/
    （图分别引自 `这里`__ 、 `这里`__ 和 `这里`__ ）
 
 __ http://www.aerien.ch/oiseaux/Asie/STRIGIFORMES/STRIGIDAE/Otus_bakkamoena.php
-
 __ http://www.birdnet.cn/thread-739470-1-1.html
-
 __ http://tieba.baidu.com/p/2731146972
 
 领角鸮的虹膜（即“眼白”，下同）为红色到深褐色（由此和东方角鸮、黄嘴角鸮区分），
@@ -264,7 +262,6 @@ __ http://tieba.baidu.com/p/2731146972
    左、右分别为白脸角鸮和纵纹角鸮（图分别引自 `这里`__ 和 `这里`__ ）
 
 __ https://en.wikipedia.org/wiki/File:Northern_white-faced_owl_arp.jpg
-
 __ http://wowturkey.com/forum/viewtopic.php?t=32800
 
 
@@ -283,7 +280,6 @@ __ http://wowturkey.com/forum/viewtopic.php?t=32800
    左、右分别为斑头鸺鹠和花头鸺鹠（图分别引自 `这里`__ 和 `这里`__ ）
 
 __ http://tieba.baidu.com/p/694809590
-
 __ http://www.pbase.com/breider/image/135508661
 
 .. figure:: img/taxon/glaucidium-brodiei.jpg
@@ -322,9 +318,7 @@ __ http://orientalbirdimages.org/search.php?Bird_ID=635&Bird_Image_ID=92674
    （图分别引自 `这里`__ 、 `这里`__ 和 `这里`__ ）
 
 __ https://commons.wikimedia.org/wiki/File:Athene_brama.jpg
-
 __ http://www.birdskoreablog.org/?p=10900
-
 __ http://majikphil.blogspot.com/2011/02/florida-burrowing-owl.html
 
 和鸺鹠相比，小鸮有很明显的像络腮胡子一样的白色领羽，
@@ -387,7 +381,6 @@ __ http://ibc.lynxeds.com/photo/
    左、右分别为长耳鸮和短耳鸮（原图分别引自 `这里`__ 和 `这里`__ ）
 
 __ http://tieba.baidu.com/p/2135199592
-
 __ http://www.birdscalgary.com/2013/03/06/wednesday-wings-short-eared-owls/
 
 
@@ -400,9 +393,7 @@ __ http://www.birdscalgary.com/2013/03/06/wednesday-wings-short-eared-owls/
    （原图分别引自 `这里`__ 、 `这里`__ 和 `这里`__ ）
 
 __ http://tieba.baidu.com/p/2135199592
-
 __ https://secure.flickr.com/photos/zakirhassan/8121975074/
-
 __ http://birds.nature4stock.com/?page_id=1803
 
 
@@ -452,9 +443,7 @@ __ https://commons.wikimedia.org/wiki/
    （原图分别引自 `这里`__ 、 `这里`__ 和 `这里`__ ）
 
 __ http://www.owlpages.com/image.php?image=species-Bubo-zeylonensis-1
-
 __ http://lananhbirds.com/diendan/showthread.php?t=969
-
 __ https://commons.wikimedia.org/wiki/File:Blakiston%60s_fish_owl1.jpg
 
 
@@ -466,7 +455,6 @@ __ https://commons.wikimedia.org/wiki/File:Blakiston%60s_fish_owl1.jpg
    左、右分别为雪鸮和乌林鸮（原图分别引自 `这里`__ 和 `这里`__ ）
 
 __ http://www.owlpages.com/image.php?image=species-Bubo-scandiacus-2
-
 __ http://www.owlpages.com/image.php?image=species-Strix-nebulosa-16
 
 
