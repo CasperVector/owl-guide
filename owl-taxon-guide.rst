@@ -80,11 +80,6 @@
   * **耳鸮属 *Asio* ：**
     长耳鸮 *Asio otus* 、短耳鸮 *Asio flammeus* 。
 
-  * **林鸮属 *Strix* ：**
-    灰林鸮 *Strix aluco* 、褐林鸮 *Strix leptogrammica* 、
-    长尾林鸮 *Strix uralensis* 、四川林鸮 *Strix davidi* 、
-    乌林鸮 *Strix nebulosa* 。
-
   * **猛鸮属 *Surnia* ：**
     猛鸮 *Surnia ulula* 。
 
@@ -98,6 +93,11 @@
     褐渔鸮 *Bubo zeylonensis* 、
     黄腿渔鸮 *Bubo flavipes* 、
     毛腿渔鸮 *Bubo blakistoni* 。
+
+  * **林鸮属 *Strix* ：**
+    灰林鸮 *Strix aluco* 、褐林鸮 *Strix leptogrammica* 、
+    长尾林鸮 *Strix uralensis* 、四川林鸮 *Strix davidi* 、
+    乌林鸮 *Strix nebulosa* 。
 
 本文档将顺带介绍一些经常被提及和问到的非本土物种：
 
@@ -385,26 +385,14 @@ __ http://tieba.baidu.com/p/2135199592
 __ http://www.birdscalgary.com/2013/03/06/wednesday-wings-short-eared-owls/
 
 
-林鸮属
-------
+其它
+----
 
-.. figure:: img/taxon/strix.jpg
+.. figure:: img/taxon/misc-medium.jpg
 
-   从左到右依次为灰林鸮、褐林鸮和长尾林鸮
-   （原图分别引自 `这里`__ 、 `这里`__ 和 `这里`__ ）
+  灰林鸮和猛鸮（原图分别引自 `这里`__ 和 `这里`__ ）
 
 __ http://tieba.baidu.com/p/2135199592
-__ https://secure.flickr.com/photos/zakirhassan/8121975074/
-__ http://birds.nature4stock.com/?page_id=1803
-
-
-猛鸮属
-------
-
-.. figure:: img/taxon/surnia-ulula.jpg
-
-  猛鸮（图引自 `这里`__ ）
-
 __ http://www.owlpages.com/image.php?image=species-Surnia-ulula-15
 
 
@@ -448,15 +436,27 @@ __ http://lananhbirds.com/diendan/showthread.php?t=969
 __ https://commons.wikimedia.org/wiki/File:Blakiston%60s_fish_owl1.jpg
 
 
-其它
+林鸮属
+------
+
+.. figure:: img/taxon/strix.jpg
+
+   从左到右依次为褐林鸮、长尾林鸮和乌林鸮
+   （原图分别引自 `这里`__ 、 `这里`__ 和 `这里`__ ）
+
+__ https://secure.flickr.com/photos/zakirhassan/8121975074/
+__ http://birds.nature4stock.com/?page_id=1803
+__ http://www.wildsweden.com/news/great-grey-owl-season/
+
+
+雪鸮
 ----
 
-.. figure:: img/taxon/misc-big.jpg
+.. figure:: img/taxon/bubo-scandiacus.jpg
 
-   左、右分别为雪鸮和乌林鸮（原图分别引自 `这里`__ 和 `这里`__ ）
+   雪鸮（图引自 `这里`__ ）
 
 __ http://www.owlpages.com/image.php?image=species-Bubo-scandiacus-2
-__ http://www.owlpages.com/image.php?image=species-Strix-nebulosa-16
 
 
 其它分类方法
