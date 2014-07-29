@@ -247,7 +247,7 @@ __ http://wowturkey.com/forum/viewtopic.php?t=32800
 ......
 
 目前确定在我国有野生分布的鸺鹠有斑头鸺鹠、花头鸺鹠和领鸺鹠（见两附图），
-三者的平均体长分别约为 24、18 和 16 厘米，领鸺鹠是我国体型最小的猫头鹰。
+其平均体长分别约为 24、18 和 16 厘米，领鸺鹠是我国体型最小的猫头鹰。
 
 .. figure:: img/taxon/cuculoides-passerinum.jpg
 
@@ -398,11 +398,11 @@ __ http://www.birdscalgary.com/2013/03/06/wednesday-wings-short-eared-owls/
 ----
 
 目前确定在我国有野生分布的中型猫头鹰还有灰林鸮和猛鸮，
-两者平均体长分别约为 43 和 38 厘米。
+其平均体长分别约为 43 和 38 厘米。
 
 .. figure:: img/taxon/misc-medium.jpg
 
-  灰林鸮和猛鸮（原图分别引自 `这里`__ 和 `这里`__ ）
+  左、右分别为灰林鸮和猛鸮（原图分别引自 `这里`__ 和 `这里`__ ）
 
 __ http://tieba.baidu.com/p/2135199592
 __ http://www.owlpages.com/image.php?image=species-Surnia-ulula-15
@@ -421,7 +421,7 @@ __ http://www.owlpages.com/image.php?image=species-Surnia-ulula-15
 大角鸮产于美洲，在我国没有野生分布，
 但因在各种海报和影像资料中经常出现而较为知名。
 雕鸮、乌雕鸮、林雕鸮和大角鸮的形态见两附图，
-它们的平均体长分别约为 69、56、63 和 55 厘米，
+其平均体长分别约为 69、56、63 和 55 厘米，
 雕鸮是我国体型最大的猫头鹰。
 
 .. figure:: img/taxon/coromandus-bubo.jpg
@@ -485,7 +485,7 @@ __ https://commons.wikimedia.org/wiki/File:Blakiston%60s_fish_owl1.jpg
 因此有生物学家将其作为长尾林鸮的亚种。
 灰林鸮是中型猫头鹰，上文中已介绍，此处不再赘述。
 褐林鸮、长尾林鸮和乌林鸮的形态见附图，
-三者平均体长分别为 50、54 和 65 厘米。
+其平均体长分别为 50、54 和 65 厘米。
 
 .. figure:: img/taxon/strix.jpg
 
