@@ -471,6 +471,17 @@ __ http://www.owlpages.com/image.php?image=species-Bubo-zeylonensis-1
 __ http://lananhbirds.com/diendan/showthread.php?t=969
 __ https://commons.wikimedia.org/wiki/File:Blakiston%60s_fish_owl1.jpg
 
+渔鸮和雕鸮的最大区别在于耳状羽的形状和胸腹部的羽毛图案：
+雕鸮的耳状羽较为集中，是“一条”，
+而渔鸮的耳状羽较为弥散，是“一束”；
+雕鸮从胸到腹的纵纹是由粗变细，
+而渔鸮的胸腹部纵纹或者都较粗，或者都较细。
+
+通过腿上是否有羽毛以及胸腹部的羽毛图案来区分这三种渔鸮：
+毛腿渔鸮腿上有羽毛，而褐渔鸮和黄脚渔鸮腿上无羽毛；
+褐渔鸮和毛腿渔鸮胸腹部为较细的纵纹，且每道纵纹均延伸出更细的横纹，
+而黄脚渔鸮胸胸腹部为较粗的纵纹，且没有横纹。
+
 渔鸮在我国罕见，发现后请尽量及时联系有关社会力量，以进行专业救助。
 
 
@@ -508,6 +519,10 @@ __ http://www.wildsweden.com/news/great-grey-owl-season/
    雪鸮（图引自 `这里`__ ）
 
 __ http://www.owlpages.com/image.php?image=species-Bubo-scandiacus-2
+
+通过羽毛所形成的图案很容易区分雪鸮的性别：
+成年雄性雪鸮羽毛几乎全白；
+而雌性或未成年雄性雪鸮会有一些黑色的羽毛，形成斑状的图案。
 
 雪鸮主要昼行。
 雪鸮在我国罕见，发现后请尽量及时联系有关社会力量，以进行专业救助。
