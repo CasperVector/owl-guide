@@ -91,7 +91,7 @@
 
   * **渔鸮属 *Ketupa* （现已并入雕鸮属）：**
     褐渔鸮 *Bubo zeylonensis* 、
-    黄腿渔鸮 *Bubo flavipes* 、
+    黄脚渔鸮 *Bubo flavipes* 、
     毛腿渔鸮 *Bubo blakistoni* 。
 
   * **林鸮属 *Strix* ：**
@@ -459,12 +459,12 @@ __ https://commons.wikimedia.org/wiki/
 渔鸮属
 ------
 
-目前确定在我国有野生分布的渔鸮有褐渔鸮、黄腿渔鸮和毛腿渔鸮，
+目前确定在我国有野生分布的渔鸮有褐渔鸮、黄脚渔鸮和毛腿渔鸮，
 其平均体长分别约为 53、61 和 70 厘米。
 
 .. figure:: img/taxon/ketupa.jpg
 
-   从左到右依次为褐渔鸮、毛腿渔鸮和黄腿渔鸮
+   从左到右依次为褐渔鸮、毛腿渔鸮和黄脚渔鸮
    （原图分别引自 `这里`__ 、 `这里`__ 和 `这里`__ ）
 
 __ http://www.owlpages.com/image.php?image=species-Bubo-zeylonensis-1
