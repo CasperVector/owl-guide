@@ -308,35 +308,30 @@ __ http://majikphil.blogspot.com/2011/02/florida-burrowing-owl.html
 因此发现后请尽量及时联系有关社会力量，以进行专业救助。
 
 
-其它
-----
+鬼鸮属
+------
 
-目前确定在我国有野生分布的小型猫头鹰还有鹰鸮和鬼鸮；
+目前确定在我国有野生分布的小型猫头鹰还有鬼鸮；
 棕榈鬼鸮产于北美洲，在我国没有野生分布，
 但因一张其被抚摸的图片（见《猫头鹰救助和饲养指南》）在互联网上流行，
 故在本文档中一并介绍。
-这三种猫头鹰的形态见附图，
-其中鹰鸮、鬼鸮和棕榈鬼鸮的平均体长分别约为 30、25 和 20 厘米。
+鬼鸮和棕榈鬼鸮的形态见附图，
+其平均体长分别约为 25 和 20 厘米。
 
-.. figure:: img/taxon/misc-small.jpg
+.. figure:: img/taxon/aegolius.jpg
 
-   从左到右依次为鹰鸮、鬼鸮和棕榈鬼鸮
-   （图分别引自 `这里`__ 、 `这里`__ 和 `这里`__ ）
-
-__ http://bobtheplainguy.blogspot.com/2009/01/penang-bird-park.html
+   左、右分别为鬼鸮和棕榈鬼鸮（图分别引自 `这里`__ 和 `这里`__ ）
 
 __ https://en.wikipedia.org/wiki/File:Aegolius-funereus-001.jpg
 
 __ http://ibc.lynxeds.com/photo/
    northern-saw-whet-owl-aegolius-acadicus/daytime-roost
 
-鹰鸮的形态和其它各种猫头鹰有着明显的不同，故不再赘述。
 鬼鸮和棕榈鬼鸮在形态上最大的区别在于鬼鸮面盘边缘明显有一圈深色的毛；
 此外，鬼鸮的羽毛颜色总体比棕榈鬼鸮更深一些；
 最重要的是，棕榈鬼鸮的产地不在中国。
 
-鹰鸮在我国较常见；而鬼鸮在我国罕见，
-因此发现后请尽量及时联系有关社会力量，以进行专业救助。
+鬼鸮在我国罕见，发现后请尽量及时联系有关社会力量，以进行专业救助。
 
 
 中型猫头鹰
@@ -397,18 +392,20 @@ __ http://www.birdscalgary.com/2013/03/06/wednesday-wings-short-eared-owls/
 其它
 ----
 
-目前确定在我国有野生分布的中型猫头鹰还有灰林鸮和猛鸮，
-其平均体长分别约为 43 和 38 厘米。
+目前确定在我国有野生分布的中型猫头鹰还有鹰鸮、灰林鸮和猛鸮，
+其平均体长分别约为 30、43 和 38 厘米。
 
 .. figure:: img/taxon/misc-medium.jpg
 
-  左、右分别为灰林鸮和猛鸮（原图分别引自 `这里`__ 和 `这里`__ ）
+  从左到右依次为鹰鸮、灰林鸮和猛鸮
+  （原图分别引自 `这里`__  、 `这里`__ 和 `这里`__）
 
+__ http://bobtheplainguy.blogspot.com/2009/01/penang-bird-park.html
 __ http://tieba.baidu.com/p/2135199592
 __ http://www.owlpages.com/image.php?image=species-Surnia-ulula-15
 
-灰林鸮在我国较常见；而猛鸮在我国罕见，
-因此发现后请尽量及时联系有关社会力量，以进行专业救助。
+在我国，鹰鸮常见，灰林鸮较常见。
+猛鸮在我国罕见，发现后请尽量及时联系有关社会力量，以进行专业救助。
 
 
 大型猫头鹰
