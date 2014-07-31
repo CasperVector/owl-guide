@@ -77,14 +77,14 @@
   * **小鸮属 *Athene* ：**
     纵纹腹小鸮 *Athene noctua* 、横斑腹小鸮 *Athene brama* 。
 
-  * **鹰鸮属 *Ninox* ：**
-    鹰鸮 *Ninox scutulata* 。
-
   * **鬼鸮属 *Aegolius* ：**
     鬼鸮 *Aegolius funereus* 。
 
   * **耳鸮属 *Asio* ：**
     长耳鸮 *Asio otus* 、短耳鸮 *Asio flammeus* 。
+
+  * **鹰鸮属 *Ninox* ：**
+    鹰鸮 *Ninox scutulata* 。
 
   * **猛鸮属 *Surnia* ：**
     猛鸮 *Surnia ulula* 。
