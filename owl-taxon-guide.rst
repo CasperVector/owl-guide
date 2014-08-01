@@ -57,11 +57,11 @@
 
 - **草鸮科 *Tytonidae* ：**
 
-  * **栗鸮属 *Phodilus* ：**
-    栗鸮 *Phodilus badius* 。
-
   * **草鸮属 *Tyto* ：**
     草鸮 *Tyto longimembris* ，仓鸮 *Tyto alba* 。
+
+  * **栗鸮属 *Phodilus* ：**
+    栗鸮 *Phodilus badius* 。
 
 - **鸱鸮科 *Strigidae* ：**
 
