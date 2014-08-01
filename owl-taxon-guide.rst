@@ -465,6 +465,11 @@ __ https://commons.wikimedia.org/wiki/
 而乌雕鸮和林雕鸮更是罕见。
 因此发现这些猫头鹰后请尽量及时联系有关社会力量，以进行专业救助。*
 
+顺便提到，大角鸮不是一种角鸮。
+“大角鸮”是“Great Horned Owl”的直译，
+而角鸮属的角鸮被称为“Scops Owl”（例如东方角鸮 Oriental Scops Owl），
+“Horned”和“Scops”的区别也说明了两者的意义并不相同。
+
 
 渔鸮属
 ------
