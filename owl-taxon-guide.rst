@@ -89,6 +89,11 @@
   * **猛鸮属 *Surnia* ：**
     猛鸮 *Surnia ulula* 。
 
+  * **林鸮属 *Strix* ：**
+    灰林鸮 *Strix aluco* 、褐林鸮 *Strix leptogrammica* 、
+    长尾林鸮 *Strix uralensis* 、四川林鸮 *Strix davidi* 、
+    乌林鸮 *Strix nebulosa* 。
+
   * **雕鸮属 *Bubo* ：**
     雕鸮 *Bubo bubo* 、乌雕鸮 *Bubo coromandus* 、林雕鸮 *Bubo nipalensis* 。
 
@@ -99,11 +104,6 @@
     褐渔鸮 *Bubo zeylonensis* 、
     黄脚渔鸮 *Bubo flavipes* 、
     毛腿渔鸮 *Bubo blakistoni* 。
-
-  * **林鸮属 *Strix* ：**
-    灰林鸮 *Strix aluco* 、褐林鸮 *Strix leptogrammica* 、
-    长尾林鸮 *Strix uralensis* 、四川林鸮 *Strix davidi* 、
-    乌林鸮 *Strix nebulosa* 。
 
 本文档将顺带介绍一些经常被提及和问到的非本土物种：
 
@@ -421,6 +421,29 @@ __ http://www.owlpages.com/image.php?image=species-Surnia-ulula-15
 大型猫头鹰
 ==========
 
+林鸮属
+------
+
+目前确定在我国有野生分布的林鸮有灰林鸮、褐林鸮、长尾林鸮、四川林鸮和乌林鸮。
+灰林鸮是中型猫头鹰，上文中已介绍，此处不再赘述。
+四川林鸮形态和长尾林鸮非常相似，只是前者分布在东北，后者分布在四川，
+因此有生物学家将其作为长尾林鸮的亚种。
+褐林鸮、长尾林鸮和乌林鸮的形态见附图，
+其平均体长分别为 50、54 和 65 厘米。
+
+.. figure:: img/taxon/strix.jpg
+
+   从左到右依次为褐林鸮、长尾林鸮和乌林鸮
+   （原图分别引自 `这里`__ 、 `这里`__ 和 `这里`__ ）
+
+__ https://secure.flickr.com/photos/zakirhassan/8121975074/
+__ http://birds.nature4stock.com/?page_id=1803
+__ http://www.wildsweden.com/news/great-grey-owl-season/
+
+*在我国，褐林鸮和长尾林鸮数量较为稀少，而乌林鸮更是非常罕见，
+因此发现后请尽量及时联系有关社会力量，以进行专业救助。*
+
+
 雕鸮属
 ------
 
@@ -498,29 +521,6 @@ __ https://commons.wikimedia.org/wiki/File:Blakiston%60s_fish_owl1.jpg
 而黄脚渔鸮胸胸腹部为较粗的纵纹，且没有横纹。
 
 *渔鸮在我国罕见，发现后请尽量及时联系有关社会力量，以进行专业救助。*
-
-
-林鸮属
-------
-
-目前确定在我国有野生分布的林鸮有灰林鸮、褐林鸮、长尾林鸮、四川林鸮和乌林鸮。
-灰林鸮是中型猫头鹰，上文中已介绍，此处不再赘述。
-四川林鸮形态和长尾林鸮非常相似，只是前者分布在东北，后者分布在四川，
-因此有生物学家将其作为长尾林鸮的亚种。
-褐林鸮、长尾林鸮和乌林鸮的形态见附图，
-其平均体长分别为 50、54 和 65 厘米。
-
-.. figure:: img/taxon/strix.jpg
-
-   从左到右依次为褐林鸮、长尾林鸮和乌林鸮
-   （原图分别引自 `这里`__ 、 `这里`__ 和 `这里`__ ）
-
-__ https://secure.flickr.com/photos/zakirhassan/8121975074/
-__ http://birds.nature4stock.com/?page_id=1803
-__ http://www.wildsweden.com/news/great-grey-owl-season/
-
-*在我国，褐林鸮和长尾林鸮数量较为稀少，而乌林鸮更是非常罕见，
-因此发现后请尽量及时联系有关社会力量，以进行专业救助。*
 
 
 雪鸮
