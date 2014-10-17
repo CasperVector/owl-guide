@@ -167,7 +167,7 @@
 
 .. figure:: img/taxon/otus-stimulated.jpg
 
-   左、右分别为正常状态和防御状态下的东方角鸮（图引自 `这里`__ ）
+   左、右分别为正常状态和防御状态下的东方角鸮（原图引自 `这里`__ ）
 
 __ http://tieba.baidu.com/p/2724153583
 
@@ -199,7 +199,7 @@ __ http://tieba.baidu.com/p/2941887428
 .. figure:: img/taxon/otus-common.jpg
 
    从左到右依次为领角鸮、东方角鸮和黄嘴角鸮
-   （图分别引自 `这里`__ 、 `这里`__ 和 `这里`__ ）
+   （原图分别引自 `这里`__ 、 `这里`__ 和 `这里`__ ）
 
 __ http://www.aerien.ch/oiseaux/Asie/STRIGIFORMES/STRIGIDAE/Otus_bakkamoena.php
 __ http://www.birdnet.cn/thread-739470-1-1.html
@@ -261,7 +261,7 @@ __ http://wowturkey.com/forum/viewtopic.php?t=32800
 
 .. figure:: img/taxon/cuculoides-passerinum.jpg
 
-   左、右分别为斑头鸺鹠和花头鸺鹠（图分别引自 `这里`__ 和 `这里`__ ）
+   左、右分别为斑头鸺鹠和花头鸺鹠（原图分别引自 `这里`__ 和 `这里`__ ）
 
 __ http://tieba.baidu.com/p/694809590
 __ http://www.pbase.com/breider/image/135508661
@@ -296,7 +296,7 @@ __ http://orientalbirdimages.org/search.php?Bird_ID=635&Bird_Image_ID=92674
 .. figure:: img/taxon/athene.jpg
 
    从左到右依次为横斑腹小鸮、纵纹腹小鸮和穴鸮
-   （图分别引自 `这里`__ 、 `这里`__ 和 `这里`__ ）
+   （原图分别引自 `这里`__ 、 `这里`__ 和 `这里`__ ）
 
 __ https://commons.wikimedia.org/wiki/File:Athene_brama.jpg
 __ http://www.birdskoreablog.org/?p=10900
@@ -330,7 +330,7 @@ __ http://majikphil.blogspot.com/2011/02/florida-burrowing-owl.html
 
 .. figure:: img/taxon/aegolius.jpg
 
-   左、右分别为鬼鸮和棕榈鬼鸮（图分别引自 `这里`__ 和 `这里`__ ）
+   左、右分别为鬼鸮和棕榈鬼鸮（原图分别引自 `这里`__ 和 `这里`__ ）
 
 __ https://en.wikipedia.org/wiki/File:Aegolius-funereus-001.jpg
 
