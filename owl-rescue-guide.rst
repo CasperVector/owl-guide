@@ -246,7 +246,7 @@ __ http://www.northwoodsfalconry.com/products-page/perches-for-falcons/
 
 在猫头鹰够得着的地方，
 应该有一个不易被打翻的容器（例如狗食盆，见附图）用来装水，
-其中的水用光或弄脏之后应当即使补充或更换。
+其中的水用光或弄脏之后应当及时补充或更换。
 
 .. figure:: img/rescue/dog-bowl.jpg
 
