@@ -1,7 +1,7 @@
 PROJECT = owl-rescue-guide owl-taxon-guide
 TEMPLATE = pandoc-caspervector.tex
 LATEX = xelatex
-PANDOC_FLAGS = --latex-engine=${LATEX} --template=${TEMPLATE} \
+PANDOC_FLAGS = -s --latex-engine=${LATEX} --template=${TEMPLATE} \
 	-V ctex --no-tex-ligatures --toc -N
 
 all: ${PROJECT:%=%.pdf}
