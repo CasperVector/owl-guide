@@ -8,9 +8,9 @@
 本文档旨在为中国的受众提供一个以猫头鹰的分类、救助和饲养为主题的，
 简洁但比较完备的自助指南。
 
-本文档托管于 GitHub 上[1]_。
+本文档托管于 GitLab 上[1]_。
 
-.. [1] https://github.com/CasperVector/owl-guide
+.. [1] https://gitlab.com/CasperVector/owl-guide
 
 
 版权
