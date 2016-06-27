@@ -193,19 +193,24 @@ __ http://tieba.baidu.com/p/2817053927
 
 * 体型比鸽子还小的小型猫头鹰，建议养在尽量大（例如装洗衣机的）的纸箱里。
 
-* 体型在鸽子和鸡之间的中型猫头鹰，建议养在“隼台”[#falcon-block]_上，
-  可以套“两开”在其脚上以免其乱飞（见附图）。
+* 体型在鸽子和鸡之间的中型猫头鹰，建议使用较长的站杠饲养，
+  并套“两开”[#falcon-block]_在其脚上以免其乱飞（见附图）；
+  关于站杠的细节请参考 `提供站杠 <#提供站杠>`__ 一小节。
+  *请注意：猫头鹰的脚趾结构不同于其它猛禽[#owl-nail]_，
+  这使得它们不适合用“隼台”饲养，因此请务必使用站杠。*
 
 * 体型比鸡还要大的大型猫头鹰，建议腾出一整个房间放养。
 
 .. figure:: img/rescue/falcon-block.jpg
 
-   隼台和两开（图引自 `这里`__ ）
+   两开（图引自 `这里`__ ）
 
 __ http://www.northwoodsfalconry.com/products-page/perches-for-falcons/
    middle-east-black-arab-falcon-block-pb132/
 
-.. [#falcon-block] 隼台、两开等为鹰具，可在淘宝等网站上购买。
+.. [#falcon-block] 两开为鹰具，可在淘宝等网站上购买。
+.. [#owl-nail]
+   http://tieba.baidu.com/p/3197345422 （见第 3 楼楼中楼）。
 
 
 定期放养/放风
