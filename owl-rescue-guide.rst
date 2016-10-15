@@ -3,7 +3,7 @@
 ********************
 
 :author: 百度猫头鹰吧[#baidu-owl]_
-:date: 2014/07/30，v0.1.0
+:date: 2016/10/15，v0.1.1
 
 .. [#baidu-owl]
    http://tieba.baidu.com/f?ie=utf-8&kw=%E7%8C%AB%E5%A4%B4%E9%B9%B0
