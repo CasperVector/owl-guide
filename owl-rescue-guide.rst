@@ -62,9 +62,14 @@
 可以考虑向媒体、动物保护组织、动物园和林业局等单位求助，
 也可以参考这个[#vigilance]_链接中“那如何救助猛禽呢？”一部分中列出的名单，
 通过微博求助。
+对于严重的违法犯罪行为，建议向森林公安机关举报：
+国家级和省级森林公安的联系电话可以参考这个链接[#forestpol]_。
 
 .. [#vigilance]
    http://www.guokr.com/post/444132/
+
+.. [#forestpol]
+   http://www.forestry.gov.cn/slga/2559/content-574473.html
 
 此外，根据这篇[#owlet-picking]_帖子所述，
 猫头鹰的雏鸟在学会飞行之前，可能经历一个反复从树上掉下的过程。
