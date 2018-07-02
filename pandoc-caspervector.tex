@@ -1,15 +1,10 @@
 $if(ctex)$
-\documentclass[UTF8, hyperref]{ctexart}
+\documentclass[UTF8]{ctexart}
 $else$
 \documentclass[$for(classoption)$$classoption$$sep$, $endfor$]{$documentclass$}
 $endif$
-\usepackage{fixltx2e}
-\usepackage{iftex}
-\usepackage{lmodern}
-\usepackage{upquote}
-\usepackage{microtype}
-\usepackage{indentfirst}
-\usepackage{amssymb, amsmath}
+\usepackage{fixltx2e, iftex, lmodern, microtype}
+\usepackage{upquote, indentfirst, amssymb, amsmath}
 \usepackage[font = it, labelformat = empty]{caption}
 
 \ifXeTeX
