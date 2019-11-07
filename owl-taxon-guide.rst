@@ -25,10 +25,10 @@
 本文档源自百度猫头鹰吧网友的共同努力。
 欢迎转载， *转载时请注明作者、出处* 。
 
-本文档托管于 GitLab 上[#gitlab-link]_。
+本文档托管于 Gitea 上[#gitea-link]_。
 
-.. [#gitlab-link]
-   https://gitlab.com/CasperVector/owl-guide
+.. [#gitea-link]
+   https://gitea.com/CasperVector/owl-guide
 
 
 分类概况
